@@ -1,0 +1,56 @@
+.container{
+    background-color:  #E9ECEF;
+   /* width: 2000px;
+    height: 1050px; */
+    margin-top: -18px;
+    margin-right: -10px;
+    margin-left: -8px;
+}
+
+
+.content{
+    width: 800px;
+    float: left;
+}
+
+.card{
+    margin-left: 10px;
+    font-size: 18px;
+    margin-right: 3%;
+    border-radius: 2px;  
+}
+
+h2{
+    color: chocolate;
+}
+
+
+h1{
+    margin-left: 500px;
+    color: crimson;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+
+.left-bar{
+    background-color: rgb(80, 87, 73);
+
+}
+
+.text-align{
+    text-align: center;
+}
+
+.bg-boyut{
+    color: white;
+    text-decoration:none;
+    font-size: 20px;
+}
+
+.bg-red{
+    color: tomato;
+}  
+
